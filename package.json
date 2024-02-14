@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+    "type": "module",
+}
